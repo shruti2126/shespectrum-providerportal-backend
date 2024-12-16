@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "Unique26!",
+    "database": "providerdb",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
